@@ -1,0 +1,14 @@
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/bin/Debug/net8.0/Mission02
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/bin/Debug/net8.0/Mission02.deps.json
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/bin/Debug/net8.0/Mission02.runtimeconfig.json
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/bin/Debug/net8.0/Mission02.dll
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/bin/Debug/net8.0/Mission02.pdb
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.AssemblyInfoInputs.cache
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.AssemblyInfo.cs
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.csproj.CoreCompileInputs.cache
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.dll
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/refint/Mission02.dll
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.pdb
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.genruntimeconfig.cache
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/ref/Mission02.dll
