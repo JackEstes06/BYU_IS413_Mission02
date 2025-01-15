@@ -12,3 +12,4 @@
 /Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.pdb
 /Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.genruntimeconfig.cache
 /Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/ref/Mission02.dll
+/Users/jackestes/Documents/Current Semester/IS413/Assignments/Mission02/Mission02/obj/Debug/net8.0/Mission02.sourcelink.json

@@ -10,7 +10,17 @@ internal class Program
             "Welcome to the dice throwing simulator!" +
             "\nHow many dice rolls would you like to simulate? "
         );
-        numDiceRolls = int.Parse(System.Console.ReadLine());
+        
+        // Get user input
+        string userInput = System.Console.ReadLine();
+        while (true)
+        {
+            // Try to parse the input as an integer - exit on valid number
+            if (int.TryParse(userInput, out numDiceRolls)) { break; }
+
+            Console.WriteLine("That's not a valid number. Please try again.");
+            userInput = System.Console.ReadLine();
+        }
 
         System.Console.WriteLine(
             "\nDICE ROLLING SIMULATION RESULTS" +
